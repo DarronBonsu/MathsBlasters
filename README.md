@@ -1,1 +1,1 @@
-# MathsBlasters
+A fun and interactive Python-based math game using SQL for random question generation. In this game players control a spaceship and must shoot the enemy ship displaying the correct answer to a randomly generated math question from the database, while dodging incoming enemy fire.
